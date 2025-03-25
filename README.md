@@ -131,9 +131,9 @@ This analysis provides **data-driven insights** to enhance Blinkit's **sales, cu
 
 
 ## 📄 Full Report (PDF)  
-[📥 Download the Detailed Analysis (Blinkit.pdf)](https://github.com/Blinkit-Outlet-Sales-Analysis/Blinkit.pdf)
+[📥 Download the Detailed Analysis (Blinkit.pdf)]![blinkit](https://github.com/pranaydhore/Blinkit-Outlet-Sales-Analysis/blob/main/Blinkit.pdf)
 
-![blinkit](https://github.com/pranaydhore/Blinkit-Outlet-Sales-Analysis/blob/main/Blinkit.pdf)
+
 
 
 ![blinkit](https://github.com/user-attachments/assets/20e77211-58ef-499f-8d7c-78d7317f91a3)

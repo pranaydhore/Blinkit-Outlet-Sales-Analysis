@@ -127,6 +127,9 @@ This analysis provides **data-driven insights** to enhance Blinkit's **sales, cu
 🚀 By leveraging these insights, Blinkit can **strengthen its market position and scale operations efficiently**.  
 
 ---
+## 📄 Blinkit Sales Analysis Report (PDF)  
+[📥 Click here to download the full report](https://github.com/Blinkit-Outlet-Sales-Analysis/Blinkit.pdf)
+
 
 ![blinkit](https://github.com/user-attachments/assets/20e77211-58ef-499f-8d7c-78d7317f91a3)
 
